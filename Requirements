@@ -1,0 +1,13 @@
+Python 3.8+
+Streamlit or FastAPI (for the front end)
+PyTorch or TensorFlow (for LLM integration)
+Open-source LLMs (Llama 3.1, Phi 3.5, Mistral)
+Logging and other utility packages
+streamlit
+fastapi
+uvicorn
+torch
+transformers
+pandas
+numpy
+openai 
