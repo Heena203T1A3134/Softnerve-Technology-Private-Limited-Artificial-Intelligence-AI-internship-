@@ -1,0 +1,14 @@
+student_management_system/
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── supervisor.py
+│   ├── adapter.py
+│   ├── llm_model.py
+│   ├── logging_config.py
+│   └── requirements.txt
+├── data/
+│   ├── dataset.csv (if needed)
+├── logs/
+│   └── app.log
+└── README.md
