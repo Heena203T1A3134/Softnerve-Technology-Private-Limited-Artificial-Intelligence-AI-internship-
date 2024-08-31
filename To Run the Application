@@ -1,0 +1,5 @@
+1) Install Dependencies: Run the following command to install all required packages.
+----------pip install -r requirements.txt
+2)Run the Streamlit Application: Use Streamlit to launch the web app.
+----------streamlit run app/main.py
+3) Interacting with the App: Open your browser and go to http://localhost:8501. You should see a text box to enter your questions. The system will generate responses based on the integrated LLM.
